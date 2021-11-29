@@ -4,7 +4,7 @@
 Predicting cryptocurrency price movements is a well-known problem of interest. In this modern age, social media represents the public sentiment about current events. Twitter especially has attracted a lot of attention from researchers who are studying the public sentiments. This model predicts prices of Bitcoin and Cardona using sentiment analysis and machine learning algorithms specifically  Support Vector Machine and Linear Regression. This research is directed towards predicting volatile price movement of cryptocurrency by analyzing the sentiment on social media and finding the correlation between them. The most efficient combination of machine learning algorithms and the datasets being used will be determined. 
 
 ## Architecture Diagram
-![final](/uploads/b1e8dd8626ec504e58aee6228f25d467/final.png)
+![final](https://user-images.githubusercontent.com/71746027/143952063-401c6eae-b9df-480b-b570-3a39ad8bafd4.png)
 
 ## Link to tutorial video
 
